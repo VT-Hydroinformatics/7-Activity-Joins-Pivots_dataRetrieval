@@ -16,7 +16,7 @@ Using readWQPqw(), read all the chloride (00940) data for the New River at Radfo
 ```
 
 ## Problem 2
-Using the readNWISdv (daily values) function, download discharge (00060), temperature (00003), and specific conductivity (00095) for the New River at Radford from 2007 to 2009 (regular year). Use renameNWIScolumns() to rename the output of the download. Use head() to show the beginning of the results of your download.
+Using the readNWISdv (daily values) function, download discharge (00060), temperature (00010), and specific conductivity (00095) for the New River at Radford from 2007 to 2009 (regular year). Use renameNWIScolumns() to rename the output of the download. Use head() to show the beginning of the results of your download.
 
 ```{r}
 
