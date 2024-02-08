@@ -23,7 +23,7 @@ Using the readNWISdv (daily values) function, download discharge (00060), temper
 ```
 
 ## Problem 3
-Do a left join on newphys and newriver to add the chloride data to the daily discharge, temp, and conductivity data. hint: you will join on the date. Preview your data below the chunk using head().
+Do a left join on the data from problem 1 and the data from problem 2 to add the chloride data to the daily discharge, temp, and conductivity data. hint: you will join on the date. Preview your data below the chunk using head().
 
 ```{r}
 
