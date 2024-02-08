@@ -9,7 +9,7 @@ library(patchwork)
 ```
 
 ## Problem 1 
-Using readWQPqw(), read all the chloride (00940) data for the New River at Radford (03171000, must add USGS- to gage id). Use the head() function to print the beginning of the output from readNWISqw.
+Using readWQPqw(), read all the chloride (00940) data for the New River at Radford (03171000, must add USGS- to gage id). Use the head() function to print the beginning of the output from this function.
 
 ```{r}
 
