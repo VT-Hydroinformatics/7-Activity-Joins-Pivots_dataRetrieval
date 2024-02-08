@@ -1,3 +1,10 @@
+---
+title: "ACTIVITY: Joins Pivots dataRetrieval"
+format:
+  html: 
+    self-contained: true
+---
+
 # ACTIVITY: Joins Pivots dataRetrieval {#joinpivotDR}
 
 ## Load the tidyverse, dataRetrieval, and patchwork packages.
