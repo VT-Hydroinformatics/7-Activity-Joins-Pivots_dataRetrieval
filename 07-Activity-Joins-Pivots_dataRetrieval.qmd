@@ -30,14 +30,14 @@ Using the readNWISdv (daily values) function, download discharge (00060), temper
 ```
 
 ## Problem 3
-Do a left join on the data from problem 1 and the data from problem 2 to add the chloride data to the daily discharge, temp, and conductivity data. hint: you will join on the date. Preview your data below the chunk using head().
+Join the data from Problem 1 and Problem 2 to add the chloride data to the daily discharge, temp, and conductivity data. hint: you will join on the date. Preview your data below the chunk using head().
 
 ```{r}
 
 ```
 
 ## Problem 4
-Create a line plot of Date (x) and Flow (y). Create a scatter plot of Date (x) and chloride concentration (y). Put the graphs on top of each other using the patchwork library.
+Using the joined data, create a line plot of Date (x) and Flow (y). Create a scatter plot of Date (x) and chloride concentration (y). Put the graphs on top of each other using the patchwork library.
 
 ```{r}
 
