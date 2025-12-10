@@ -25,7 +25,11 @@ execute:
 
 ```{r}
 library(tidyverse)
+```
+```{r}
 library(dataRetrieval)
+```
+```{r}
 library(patchwork)
 ```
 
