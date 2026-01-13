@@ -20,7 +20,7 @@ execute:
   enabled: true
 ---
 
-# ACTIVITY: Joins Pivots dataRetrieval {#joinpivotDR}
+# ACTIVITY: Joins Pivots dataRetrieval
 
 ## Load the tidyverse, dataRetrieval, and patchwork packages.
 
